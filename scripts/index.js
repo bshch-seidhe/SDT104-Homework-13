@@ -39,8 +39,13 @@ function renderProducts(products) {
         const price = document.createElement('p');
         price.textContent = `$${product.price}`;
 
+        const link = document.createElement('a');
+        link.href = `product.html?id=${product.id}`;
+        link.className = 'product-link';
+
         card.append(img, title, price);
-        grid.appendChild(card);
+        link.appendChild(card);
+        grid.appendChild(link);
     })
 }
 
