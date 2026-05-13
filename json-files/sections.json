@@ -1,0 +1,8 @@
+{
+  "headerText": "Welcome to our store!",
+  "bannerImage": "images/banner.jpg",
+  "infoSections": [
+    { "title": "Our Values", "content": "We believe in quality..." },
+    { "title": "Shipping Info", "content": "We ship worldwide..." }
+  ]
+}
