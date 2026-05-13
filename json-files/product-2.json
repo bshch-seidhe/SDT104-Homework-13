@@ -1,0 +1,10 @@
+{
+  "id": 2,
+  "title": "Banana",
+  "price": 7,
+  "imageURL": "images/banana.jpg",
+  "description": "Sweet and ripe bananas imported from Ecuador.",
+  "category": "Fruit",
+  "origin": "Ecuador",
+  "stock": 80
+}

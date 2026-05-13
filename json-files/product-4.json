@@ -1,0 +1,10 @@
+{
+  "id": 4,
+  "title": "Watermelon",
+  "price": 18,
+  "imageURL": "images/watermelon.jpg",
+  "description": "Large and refreshing watermelons grown in the sunny fields of Kherson region.",
+  "category": "Fruit",
+  "origin": "Ukraine",
+  "stock": 15
+}

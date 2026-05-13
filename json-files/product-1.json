@@ -1,0 +1,10 @@
+{
+  "id": 1,
+  "title": "Apple",
+  "price": 5,
+  "imageURL": "images/apple.jpg",
+  "description": "Fresh and crispy apples sourced from local Ukrainian orchards.",
+  "category": "Fruit",
+  "origin": "Ukraine",
+  "stock": 50
+}
